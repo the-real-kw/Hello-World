@@ -10,5 +10,8 @@ public class Main {
         System.out.println("second branch");
         System.out.println("another change on second branch");
 
+        Employees emp1 = new Employees("1234", "Kevin");
+        System.out.println(emp1.getEmpName());
+
     }
 }
