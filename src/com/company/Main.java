@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("First branch");
         System.out.println("second branch");
+        System.out.println("another change on second branch");
     }
 }
