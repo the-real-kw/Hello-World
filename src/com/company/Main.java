@@ -13,8 +13,11 @@ public class Main {
         System.out.println("This is a fifth branch");
         System.out.println("testing out a new branch");
 
+<<<<<<< HEAD
         System.out.println("new changes that will likely be reverted later");
 
+=======
+>>>>>>> parent of 0de5662... adding another likely to be reverted code
         Employees emp1 = new Employees("1234", "Kevin");
         System.out.println(emp1.getEmpName());
         System.out.println("another change");
