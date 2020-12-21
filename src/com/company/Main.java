@@ -13,7 +13,9 @@ public class Main {
         System.out.println("This is a fifth branch");
         System.out.println("testing out a new branch");
 
-        System.out.println("going to revert this later - Dec 21");
+        System.out.println("add new code to keep");
+        System.out.println("new changes that will likely be reverted later");
+
         Employees emp1 = new Employees("1234", "Kevin");
         System.out.println(emp1.getEmpName());
         System.out.println("another change");
